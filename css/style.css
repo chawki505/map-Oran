@@ -1,0 +1,33 @@
+ body{
+    background-image: url(../img/background.jpg);
+    background-position:center;
+    background-size:100%;
+    background-repeat: no-repeat;
+    font-family: flat, 'Helvetica Neue', Helvetica, tahoma, arial, sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: #FFFFFF;
+    box-shadow: 5px 6px 5px black;
+    height:600px;
+    width: 700px;
+    }
+
+ .info{
+  border-style: solid;
+  border-color: #fff;
+  width: 697px;
+  height: 95px;
+  background-color: #fff;
+    }
+
+.left{
+    width: 300px;
+    float : left;
+    }
+
+.right{
+    width: 300px;
+    float : right;
+    }
